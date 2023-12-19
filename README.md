@@ -7,7 +7,7 @@ The dataset used for training the model is https://archive.ics.uci.edu/dataset/2
 Requirements :
 To run the notebook and experiment with the project, ensure you have the following dependencies installed:
 
-Python (version X.X)
+Python
 Jupyter Notebook
 Required Python libraries:
 pandas
