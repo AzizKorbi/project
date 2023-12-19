@@ -9,7 +9,6 @@ To run the notebook and experiment with the project, ensure you have the followi
 
 Python
 Jupyter Notebook
-Required Python libraries:
 pandas
 matplotlib.pyplot
 scikit-learn
